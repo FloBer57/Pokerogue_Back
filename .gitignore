@@ -1,0 +1,5 @@
+
+# no extension on linux, .exe on windows
+rogueserver*
+userdata/*
+secret.key
